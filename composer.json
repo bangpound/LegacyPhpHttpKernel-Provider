@@ -9,7 +9,7 @@
         }
     ],
     "require": {
-        "silex/silex": "1.2.*@dev",
+        "silex/silex": "~1.2",
         "bangpound/legacy-php-http-kernel": "1.1.*@dev"
     },
     "autoload": {
